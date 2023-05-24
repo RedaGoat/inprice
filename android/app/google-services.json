@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "696154165726",
+    "project_id": "inprice-be993",
+    "storage_bucket": "inprice-be993.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696154165726:android:a1a3dbd1adc033b8298d4f",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696154165726-gqnkuvdp0gsrb1fig83m1474kve1do65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ9OondzzDJvXr7xZ_WoyEx5lMKESoY8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696154165726-gqnkuvdp0gsrb1fig83m1474kve1do65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
